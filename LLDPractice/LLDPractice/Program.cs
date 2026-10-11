@@ -3,6 +3,7 @@
 
 //Strategy DP
 using LLDPractice.AbstractFactoryPattern;
+using LLDPractice.ChainResponsibilityLoggerSystem;
 using LLDPractice.DecoratorPattern;
 using LLDPractice.FactoryPattern;
 using LLDPractice.ObserverPattern;
@@ -52,6 +53,9 @@ public class Program
         AbstractFactoryPattern afp = new AbstractFactoryPattern("WINDOWS");
         afp.main();
 
+        //Chain Responsibility Pattern
+
+        ChainResponsibilityProcessor.main();
         
     }
 

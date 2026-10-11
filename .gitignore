@@ -1,0 +1,61 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio generated files
+Generated\ Files/
+*.cache
+*.pdb
+*.mdb
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Coverage reports
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# .NET generated files
+project.lock.json
+project.fragment.lock.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code (ignore workspace settings only if desired)
+# .vscode/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+appsettings.Development.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db

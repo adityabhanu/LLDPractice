@@ -7,6 +7,50 @@
       "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\chainresponsibilityloggersystem\\chainresponsibilityprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\chainresponsibilityloggersystem\\chainresponsibilityprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\chainresponsibilityloggersystem\\logprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\chainresponsibilityloggersystem\\logprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\chainresponsibilityloggersystem\\infologprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\chainresponsibilityloggersystem\\infologprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\chainresponsibilityloggersystem\\errorlogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\chainresponsibilityloggersystem\\errorlogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\chainresponsibilityloggersystem\\debuglogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\chainresponsibilityloggersystem\\debuglogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\tictactoe\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\tictactoe\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\tictactoe\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\tictactoe\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\tictactoe\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\tictactoe\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\tictactoe\\models\\playingpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\tictactoe\\models\\playingpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\tictactoe\\models\\piecex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\tictactoe\\models\\piecex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\tictactoe\\models\\piecetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\tictactoe\\models\\piecetypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|c:\\users\\kashy\\documents\\aditya\\code\\lld\\lldpractice\\lldpractice\\abstractfactorypattern\\abstractfactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DC17217-78B4-0212-261D-729B9FE9A662}|LLDPractice\\LLDPractice.csproj|solutionrelative:lldpractice\\abstractfactorypattern\\abstractfactorypattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -170,11 +214,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorLogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\ErrorLogProcessor.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\ChainResponsibilityLoggerSystem\\ErrorLogProcessor.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\ErrorLogProcessor.cs",
+              "RelativeToolTip": "LLDPractice\\ChainResponsibilityLoggerSystem\\ErrorLogProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:42:09.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfoLogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\InfoLogProcessor.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\ChainResponsibilityLoggerSystem\\InfoLogProcessor.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\InfoLogProcessor.cs",
+              "RelativeToolTip": "LLDPractice\\ChainResponsibilityLoggerSystem\\InfoLogProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:41:51.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\LogProcessor.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\ChainResponsibilityLoggerSystem\\LogProcessor.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\LogProcessor.cs",
+              "RelativeToolTip": "LLDPractice\\ChainResponsibilityLoggerSystem\\LogProcessor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:41:18.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChainResponsibilityProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\ChainResponsibilityProcessor.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\ChainResponsibilityLoggerSystem\\ChainResponsibilityProcessor.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\ChainResponsibilityProcessor.cs",
+              "RelativeToolTip": "LLDPractice\\ChainResponsibilityLoggerSystem\\ChainResponsibilityProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:00:38.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -184,7 +280,7 @@
               "RelativeDocumentMoniker": "LLDPractice\\Program.cs",
               "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\Program.cs",
               "RelativeToolTip": "LLDPractice\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-04T01:50:22.546Z",
               "EditorCaption": ""
@@ -192,6 +288,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DebugLogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\DebugLogProcessor.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\ChainResponsibilityLoggerSystem\\DebugLogProcessor.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ChainResponsibilityLoggerSystem\\DebugLogProcessor.cs",
+              "RelativeToolTip": "LLDPractice\\ChainResponsibilityLoggerSystem\\DebugLogProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T06:41:59.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\Board.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\TicTacToe\\Models\\Board.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\Board.cs",
+              "RelativeToolTip": "LLDPractice\\TicTacToe\\Models\\Board.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:21:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Game.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\TicTacToe\\Game.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Game.cs",
+              "RelativeToolTip": "LLDPractice\\TicTacToe\\Game.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:32:37.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\TicTacToe\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\Player.cs",
+              "RelativeToolTip": "LLDPractice\\TicTacToe\\Models\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:24:18.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PieceTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\PieceTypeEnum.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\TicTacToe\\Models\\PieceTypeEnum.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\PieceTypeEnum.cs",
+              "RelativeToolTip": "LLDPractice\\TicTacToe\\Models\\PieceTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:13:01.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PieceX.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\PieceX.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\TicTacToe\\Models\\PieceX.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\PieceX.cs",
+              "RelativeToolTip": "LLDPractice\\TicTacToe\\Models\\PieceX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:09:40.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayingPiece.cs",
+              "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\PlayingPiece.cs",
+              "RelativeDocumentMoniker": "LLDPractice\\TicTacToe\\Models\\PlayingPiece.cs",
+              "ToolTip": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\TicTacToe\\Models\\PlayingPiece.cs",
+              "RelativeToolTip": "LLDPractice\\TicTacToe\\Models\\PlayingPiece.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:08:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ShapeFactory.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\FactoryPattern\\Factory\\ShapeFactory.cs",
               "RelativeDocumentMoniker": "LLDPractice\\FactoryPattern\\Factory\\ShapeFactory.cs",
@@ -199,12 +381,11 @@
               "RelativeToolTip": "LLDPractice\\FactoryPattern\\Factory\\ShapeFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:22:58.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:22:58.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "IUIFactory.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\IUIFactory.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\IUIFactory.cs",
@@ -212,12 +393,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\IUIFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:48:05.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:48:05.506Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "AbstractFactoryPattern.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\AbstractFactoryPattern.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\AbstractFactoryPattern.cs",
@@ -225,12 +405,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\AbstractFactoryPattern.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:47:44.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:47:44.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "MacButton.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\MacButton.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\MacButton.cs",
@@ -238,12 +417,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\MacButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:51:16.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:51:16.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "IButton.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\Classes\\Interfaces\\IButton.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\Classes\\Interfaces\\IButton.cs",
@@ -251,12 +429,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\Classes\\Interfaces\\IButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:49:07.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:49:07.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "FactoryPattern.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\FactoryPattern\\FactoryPattern.cs",
               "RelativeDocumentMoniker": "LLDPractice\\FactoryPattern\\FactoryPattern.cs",
@@ -264,12 +441,11 @@
               "RelativeToolTip": "LLDPractice\\FactoryPattern\\FactoryPattern.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:19:49.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:19:49.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "ICheckBox.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\Classes\\Interfaces\\ICheckBox.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\Classes\\Interfaces\\ICheckBox.cs",
@@ -277,12 +453,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\Classes\\Interfaces\\ICheckBox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:49:17.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:49:17.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "WindowsFactory.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\WindowsFactory.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\WindowsFactory.cs",
@@ -290,12 +465,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\WindowsFactory.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:48:25.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:48:25.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "MacFactory.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\MacFactory.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\MacFactory.cs",
@@ -303,12 +477,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\AbstractFactory\\MacFactory.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:48:37.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:48:37.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "WindowsCheckbox.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\WindowsCheckbox.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\WindowsCheckbox.cs",
@@ -316,12 +489,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\WindowsCheckbox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:51:09.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:51:09.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "MacCheckbox.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\MacCheckbox.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\MacCheckbox.cs",
@@ -329,12 +501,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\MacCheckbox.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:51:25.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:51:25.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "WindowsButton.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\WindowsButton.cs",
               "RelativeDocumentMoniker": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\WindowsButton.cs",
@@ -342,12 +513,11 @@
               "RelativeToolTip": "LLDPractice\\AbstractFactoryPattern\\Classes\\Classes\\WindowsButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:50:58.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:50:58.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\FactoryPattern\\Classes\\Rectangle.cs",
               "RelativeDocumentMoniker": "LLDPractice\\FactoryPattern\\Classes\\Rectangle.cs",
@@ -355,12 +525,11 @@
               "RelativeToolTip": "LLDPractice\\FactoryPattern\\Classes\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:22:08.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:22:08.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 26,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\FactoryPattern\\Classes\\Circle.cs",
               "RelativeDocumentMoniker": "LLDPractice\\FactoryPattern\\Classes\\Circle.cs",
@@ -368,12 +537,11 @@
               "RelativeToolTip": "LLDPractice\\FactoryPattern\\Classes\\Circle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:21:11.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:21:11.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "IShape.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\FactoryPattern\\Classes\\IShape.cs",
               "RelativeDocumentMoniker": "LLDPractice\\FactoryPattern\\Classes\\IShape.cs",
@@ -381,12 +549,11 @@
               "RelativeToolTip": "LLDPractice\\FactoryPattern\\Classes\\IShape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T15:20:40.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T15:20:40.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "DecoratorClass.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\DecoratorClass.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\DecoratorClass.cs",
@@ -394,12 +561,11 @@
               "RelativeToolTip": "LLDPractice\\DecoratorPattern\\DecoratorClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T13:48:22.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T13:48:22.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "Margherita.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\BaseClasses\\Margherita.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\BaseClasses\\Margherita.cs",
@@ -411,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 33,
               "Title": "VegDelight.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\BaseClasses\\VegDelight.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\BaseClasses\\VegDelight.cs",
@@ -423,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 27,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ObserverPattern\\Store.cs",
               "RelativeDocumentMoniker": "LLDPractice\\ObserverPattern\\Store.cs",
@@ -431,12 +597,11 @@
               "RelativeToolTip": "LLDPractice\\ObserverPattern\\Store.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T07:30:19.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T07:30:19.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "Waganor.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\StrategyPattern\\Waganor.cs",
               "RelativeDocumentMoniker": "LLDPractice\\StrategyPattern\\Waganor.cs",
@@ -444,12 +609,11 @@
               "RelativeToolTip": "LLDPractice\\StrategyPattern\\Waganor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T04:42:30.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T04:42:30.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "IDriveStrategy.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\StrategyPattern\\DriveStrategy\\IDriveStrategy.cs",
               "RelativeDocumentMoniker": "LLDPractice\\StrategyPattern\\DriveStrategy\\IDriveStrategy.cs",
@@ -457,12 +621,11 @@
               "RelativeToolTip": "LLDPractice\\StrategyPattern\\DriveStrategy\\IDriveStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T04:45:29.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T04:45:29.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "ExtraCheese.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\DecoratorClasses\\ExtraCheese.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\DecoratorClasses\\ExtraCheese.cs",
@@ -474,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
               "Title": "Mushroom.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\DecoratorClasses\\Mushroom.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\DecoratorClasses\\Mushroom.cs",
@@ -486,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Farmhouse.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\BaseClasses\\Farmhouse.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\BaseClasses\\Farmhouse.cs",
@@ -498,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "ToppingDecorator.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\DecoratorClasses\\ToppingDecorator.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\DecoratorClasses\\ToppingDecorator.cs",
@@ -510,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "BasePizza.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\DecoratorPattern\\BaseClasses\\BasePizza.cs",
               "RelativeDocumentMoniker": "LLDPractice\\DecoratorPattern\\BaseClasses\\BasePizza.cs",
@@ -522,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\StrategyPattern\\Vehicle.cs",
               "RelativeDocumentMoniker": "LLDPractice\\StrategyPattern\\Vehicle.cs",
@@ -534,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 39,
               "Title": "I20Sports.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\StrategyPattern\\I20Sports.cs",
               "RelativeDocumentMoniker": "LLDPractice\\StrategyPattern\\I20Sports.cs",
@@ -546,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 41,
               "Title": "NormalDrive.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\StrategyPattern\\DriveStrategy\\NormalDrive.cs",
               "RelativeDocumentMoniker": "LLDPractice\\StrategyPattern\\DriveStrategy\\NormalDrive.cs",
@@ -558,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 40,
               "Title": "SportsDrive.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\StrategyPattern\\DriveStrategy\\SportsDrive.cs",
               "RelativeDocumentMoniker": "LLDPractice\\StrategyPattern\\DriveStrategy\\SportsDrive.cs",
@@ -570,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 42,
               "Title": "EmailObserver.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ObserverPattern\\Observer\\EmailObserver.cs",
               "RelativeDocumentMoniker": "LLDPractice\\ObserverPattern\\Observer\\EmailObserver.cs",
@@ -582,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 43,
               "Title": "ApplePhoneObservable.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ObserverPattern\\Observable\\ApplePhoneObservable.cs",
               "RelativeDocumentMoniker": "LLDPractice\\ObserverPattern\\Observable\\ApplePhoneObservable.cs",
@@ -594,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 44,
               "Title": "IStocksObservable.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ObserverPattern\\Observable\\IStocksObservable.cs",
               "RelativeDocumentMoniker": "LLDPractice\\ObserverPattern\\Observable\\IStocksObservable.cs",
@@ -606,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 45,
               "Title": "INotificationAlertObserver.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ObserverPattern\\Observer\\INotificationAlertObserver.cs",
               "RelativeDocumentMoniker": "LLDPractice\\ObserverPattern\\Observer\\INotificationAlertObserver.cs",
@@ -618,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 46,
               "Title": "SmsObserver.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\ObserverPattern\\Observer\\SmsObserver.cs",
               "RelativeDocumentMoniker": "LLDPractice\\ObserverPattern\\Observer\\SmsObserver.cs",
@@ -630,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 49,
               "Title": "Bicycle.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\Vehicle\\Classes\\Bicycle.cs",
               "RelativeDocumentMoniker": "LLDPractice\\Vehicle\\Classes\\Bicycle.cs",
@@ -642,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 48,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\Vehicle\\Classes\\Car.cs",
               "RelativeDocumentMoniker": "LLDPractice\\Vehicle\\Classes\\Car.cs",
@@ -654,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 50,
               "Title": "IEngineVehicle.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\Vehicle\\Interfaces\\IEngineVehicle.cs",
               "RelativeDocumentMoniker": "LLDPractice\\Vehicle\\Interfaces\\IEngineVehicle.cs",
@@ -666,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 47,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\kashy\\Documents\\Aditya\\code\\LLD\\LLDPractice\\LLDPractice\\Vehicle\\Classes\\Vehicle.cs",
               "RelativeDocumentMoniker": "LLDPractice\\Vehicle\\Classes\\Vehicle.cs",

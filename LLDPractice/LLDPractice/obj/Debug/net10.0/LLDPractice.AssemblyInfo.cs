@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LLDPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3272358e4bf760973ec719e55eea288fd746e3ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LLDPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LLDPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

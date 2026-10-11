@@ -13,3 +13,4 @@ C:\Users\kashy\Documents\Aditya\code\LLD\LLDPractice\LLDPractice\obj\Debug\net10
 C:\Users\kashy\Documents\Aditya\code\LLD\LLDPractice\LLDPractice\obj\Debug\net10.0\LLDPractice.genruntimeconfig.cache
 C:\Users\kashy\Documents\Aditya\code\LLD\LLDPractice\LLDPractice\obj\Debug\net10.0\ref\LLDPractice.dll
 C:\Users\kashy\Documents\Aditya\code\LLD\LLDPractice\LLDPractice\obj\Debug\net10.0\LLDPract.15C52419.Up2Date
+C:\Users\kashy\Documents\Aditya\code\LLD\LLDPractice\LLDPractice\obj\Debug\net10.0\LLDPractice.sourcelink.json
